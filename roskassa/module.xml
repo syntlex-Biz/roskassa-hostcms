@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<module>
+	<fields>
+		<field type="shopList">
+			<caption>Магазин, в который добавить платежную систему</caption>
+			<name>shop_id</name>
+		</field>
+		<field type="input">
+			<caption>Идентификатор магазина в Roskassa</caption>
+			<value></value>
+			<name>mrh_login</name>
+		</field>
+		<field type="input">
+			<caption>Секретный ключ</caption>
+			<value></value>
+			<name>mrh_pass1</name>
+		</field>
+	</fields>
+</module>
